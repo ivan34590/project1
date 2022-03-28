@@ -1,0 +1,192 @@
+
+.logo, .logoright{
+    float: left;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 2%;
+}
+.logoright{
+    float: right;
+    
+}
+.top {
+    border-bottom: 3px solid rgb(255, 3, 3);
+    
+    overflow:auto;
+}
+.paraguay{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.box{
+    width: 100%;
+    height: 37%;
+    border: 2px solid blue;
+    background-color: lightblue;
+    
+}
+.pbox{
+    font-size: medium;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+.waterfall, .reserve{
+    width: 100%;
+    height: 150%;
+    border: 2px solid red;
+}
+.caption, .caption2 {
+    color: black;
+}
+.ibox{
+    width: 25%;
+    height: 20%;
+    margin: 3%;
+    margin-left: 10%;
+    float: left;
+    
+}
+.ibox2{
+    width: 25%;
+    height: 20%;
+    margin: 9%;
+    float: right;
+}
+.textbox{
+    font-size: large;
+    color: black;
+    width: 45%;
+    height: 150px;
+    float: right;
+    margin-top: 3%;
+    margin-right: 10%;
+    word-wrap: break-word;
+}
+.textbox2{
+    font-size: large;
+    color: black;
+    width: 45%;
+    height: 150px;
+    float: left;
+    margin-top: 2%;
+    margin-left: 10%;
+    word-wrap: break-word;
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    color: black;
+}
+.linkp{
+    color: black;
+    font-size: 16px;
+    text-decoration: underline;
+}
+.description{
+    margin-left: 10%;
+    font-size: 18px;
+    word-wrap: break-word;
+    color: black;
+}
+.costbox{
+    width: 20%;
+    height: 10%;
+    border: 2px black solid;
+    padding: 2px 2px 2px 2px;
+}
+.costtable{
+    border: 2px solid black;
+    
+}
+td{
+    
+    background-color: rgb(255, 255, 255);
+}
+.red{
+    background-color: rgb(219, 130, 130);
+}
+th{
+    
+    background-color: lightgreen;
+}
+.contactphone{
+    width: 5%;
+    height: 5%;
+}
+.marginbetweencontact{
+    margin-top: 2%;
+}
+.contactpage{
+    border-top: 2px solid lightgray;
+    padding-top: 2%;
+}
+footer{
+    text-align: center;
+    font-size: large;
+}
+.realignment{
+    margin-left: 10%;
+    font-size: large;
+}
+.home{
+    
+    border-left: 2px solid lightgray;
+    border-right: 2px solid lightgray;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.page1, .page2{
+    border-right: 2px solid lightgray;
+    padding-right: 2%;
+    padding-left: 2%;
+}
+.welcome{
+    text-align: center;
+}
+.border1{
+    border-bottom: 2px solid lightgray;
+    border-top: 2px solid lightgray;
+    padding-bottom: 5%;
+    padding-top: 5%;
+
+}
+.nationalpark1{
+    
+    width: 32.75%;
+    height: auto;
+    
+    border: 2px solid black;
+}
+.nationalpark, .nationalpark1{
+    margin-left: 1.75%;
+}
+.nationalpark{
+
+    border: 2px solid black;
+    width: 29.5%;
+    height: auto;
+    
+    float: left;
+}
+.bordertop{
+    border-top: 2px solid lightgray;
+    padding-top: 2%;
+}
+.nationalpark2{
+    border: 2px solid black;
+    width: 30%;
+    height: 200px;
+    float: left;
+    margin-left: 1%;
+    
+}
+.border2{
+    border-top: 2px solid lightgray;
+    border-bottom: 2px solid lightgray;
+    padding-top: 4%;
+    padding-left: 5%;
+    padding-bottom: 19%;
+
+}
